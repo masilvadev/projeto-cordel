@@ -1,0 +1,113 @@
+*{
+    font-family: Verdana, Tahoma, sans-serif,Helvetica, sans-serif, Arial;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    
+}
+header > h1{
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+header > p{
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+header > p > a{
+    color: white;
+}
+
+main{
+    
+}
+
+div#estrofe1{
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section#s1{
+    height: 40vh;
+    background-color: black;
+    background-image: url('imagens/background001.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div#estrofe2{
+    background-color: rgba(232, 241, 221, 0.551);
+    padding: 20px;
+    position: absolute;
+    transform: translate(-0%, 33%)
+}
+
+div#estrofe3{
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div#estrofe4{
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section#s2{
+    height: 40vh;
+    background-color: black;
+    background-image: url('imagens/background002.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div#estrofe5{
+    background-color: rgba(230, 220, 220, 0.611);
+    padding: 20px;
+    position: absolute;
+    transform: translate(-0%, 33%)
+}
+
+div#estrofe6{
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div#estrofe7{
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: black;
+    padding: 10px;
+}
+
+footer > p{
+    color: white;
+    text-align: center;
+}
