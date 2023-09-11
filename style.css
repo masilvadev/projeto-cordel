@@ -48,12 +48,12 @@ p.normal{
 }
 
 section#s1{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
     background-color: rgba(0, 0, 0, 0.53);
     background-image: url('imagens/background001.jpg');
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -65,12 +65,12 @@ p#estrofe2{
 }
 
 section#s2{
-    padding-top: 5vh;
-    padding-bottom: 5vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
     background-color: black;
     background-image: url('imagens/background002.jpg');
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 }
