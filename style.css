@@ -56,6 +56,7 @@ section#s1{
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 0px 0px 5px black;
 }
 
 section#s2{
@@ -67,6 +68,7 @@ section#s2{
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 0px 0px 5px black;
 }
 
 p.paragrafodafoto{
